@@ -2,12 +2,12 @@
 
 ### 🚀 Backend Engineer | Node.js • NestJS • TypeScript
 
-I am a highly proficient Backend Developer specializing in architecting scalable, high-performance RESTful APIs. Currently, I'm building at **Pedxo**, where I focus on secure authentication flows and scalable data models.
+[cite_start]I am a highly proficient Backend Developer specializing in architecting scalable, high-performance RESTful APIs[cite: 5]. [cite_start]I focus on building secure, reliable systems and optimizing database performance for complex industrial applications[cite: 6].
 
-- 🔭 I’m currently developing **Aerosub Insight**, focusing on 3D digital twins for industrial assets.
-- 🎓 B.Eng in **Petroleum Engineering** — I bring a rigorous analytical approach to software architecture.
-- 🏫 **Mentor & Leader**: I actively guide students at **AltSchool Africa** through their capstone projects and peer learning.
-- ⚡ **Fun Fact**: I prefer the structured nature of NestJS over Express for its "opinionated" and scalable architecture.
+- 🔭 **Current Focus**: Architecting a backend system for 3D digital twins and industrial asset inspections.
+- [cite_start]👨‍💻 **Current Role**: Building at **Pedxo**, implementing secure OAuth 2.0 flows and scalable data models[cite: 16, 18, 21].
+- [cite_start]🏫 **Mentorship**: Project Mentor at **AltSchool Africa**, guiding developers through capstone projects and system design[cite: 56].
+- ⚡ **Philosophy**: I advocate for NestJS when building for scale due to its structured, opinionated architecture.
 
 ---
 
@@ -15,23 +15,24 @@ I am a highly proficient Backend Developer specializing in architecting scalable
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | Node.js, NestJS, Express.js, TypeScript, Python, RESTful APIs |
-| **Database** | PostgreSQL, MongoDB, Redis |
-| **Real-time & Queues** | WebSocket (Socket.IO), BullMQ |
-| **DevOps & Cloud** | Docker, Linux, AWS, GitHub Actions (CI/CD), Nginx |
-| **Security** | JWT, OAuth 2.0, Role-Based Access Control (RBAC) |
+| **Backend** | [cite_start]Node.js, NestJS, Express.js, TypeScript, Python [cite: 8, 9] |
+| **Database** | [cite_start]PostgreSQL, MongoDB, Redis [cite: 10] |
+| **Real-time & Queues** | [cite_start]WebSocket (Socket.IO), BullMQ [cite: 11] |
+| **DevOps & Cloud** | [cite_start]Docker, Linux, AWS, GitHub Actions (CI/CD) [cite: 11] |
+| **Security** | [cite_start]JWT, OAuth 2.0, RBAC, API Security [cite: 8, 18] |
 
 ---
 
 ### 📂 Featured Projects
 
-* **[Guessing Game](https://github.com/canonone/Guessing-game)**: Real-time multiplayer game using NestJS and Socket.IO.
-* **[NGINX Access Log Monitor](https://github.com/canonone/NGINX-Access-Log-Monitor)**: Alert system for detecting unusual traffic patterns.
-* **[Pedxo](https://pedxo.com/)**: Contributing to a platform for on-demand virtual engineer onboarding.
+* [cite_start]**[Guessing Game](https://github.com/canonone/Guessing-game)**: A real-time, multiplayer game built with NestJS and Socket.IO[cite: 41].
+* [cite_start]**[NGINX Access Log Monitor](https://github.com/canonone/NGINX-Access-Log-Monitor)**: Automated monitoring and alerting for traffic patterns[cite: 37].
+* [cite_start]**[Habit Tracker](https://github.com/canonone/Habit-Tracker)**: A productivity tool for progress monitoring built with NestJS[cite: 45].
+* [cite_start]**[Blog API](https://github.com/canonone/Blog-API)**: A RESTful API featuring secure user authentication and RBAC[cite: 34].
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Activity
 ![Christian's Stats](https://github-readme-stats.vercel.app/api?username=canonone&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canonone&layout=compact&theme=radical&hide_border=true)
 
