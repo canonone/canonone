@@ -5,8 +5,8 @@
 I am a highly proficient Backend Developer specializing in architecting scalable, high-performance RESTful APIs. I focus on building secure, reliable systems and optimizing database performance for complex industrial applications.
 
 - 🔭 **Current Focus**: Architecting a backend system for 3D digital twins and industrial asset inspections.
-- 👨‍💻 **Previous Role**: Building at **Pedxo**, implementing secure OAuth 2.0 flows and scalable data models.
-- 🏫 **Mentorship**: Project Mentor at **AltSchool Africa**, guiding developers through capstone projects and system design.
+- 🛠 **Expertise**: Specializing in secure authorization (JWT), database optimization (PostgreSQL/MongoDB/Redis), and CI/CD
+- 🏫 **Mentorship**: Previously served as a Project Mentor at **AltSchool Africa**, guiding developers through capstone projects and system design.
 - ⚡ **Philosophy**: I advocate for NestJS when building for scale due to its structured, opinionated architecture.
 
 ---
