@@ -15,11 +15,11 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | [cite_start]Node.js, NestJS, Express.js, TypeScript, Python [cite: 8, 9] |
-| **Database** | [cite_start]PostgreSQL, MongoDB, Redis [cite: 10] |
-| **Real-time & Queues** | [cite_start]WebSocket (Socket.IO), BullMQ [cite: 11] |
-| **DevOps & Cloud** | [cite_start]Docker, Linux, AWS, GitHub Actions (CI/CD) [cite: 11] |
-| **Security** | [cite_start]JWT, OAuth 2.0, RBAC, API Security [cite: 8, 18] |
+| **Backend** | Node.js, NestJS, Express.js, TypeScript, Python [cite: 8, 9] |
+| **Database** | PostgreSQL, MongoDB, Redis [cite: 10] |
+| **Real-time & Queues** | WebSocket (Socket.IO), BullMQ [cite: 11] |
+| **DevOps & Cloud** | Docker, Linux, AWS, GitHub Actions (CI/CD) [cite: 11] |
+| **Security** | JWT, OAuth 2.0, RBAC, API Security [cite: 8, 18] |
 
 ---
 
