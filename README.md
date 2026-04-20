@@ -15,20 +15,20 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | Node.js, NestJS, Express.js, TypeScript, Python [cite: 8, 9] |
-| **Database** | PostgreSQL, MongoDB, Redis [cite: 10] |
-| **Real-time & Queues** | WebSocket (Socket.IO), BullMQ [cite: 11] |
-| **DevOps & Cloud** | Docker, Linux, AWS, GitHub Actions (CI/CD) [cite: 11] |
-| **Security** | JWT, OAuth 2.0, RBAC, API Security [cite: 8, 18] |
+| **Backend** | Node.js, NestJS, Express.js, TypeScript, Python |
+| **Database** | PostgreSQL, MongoDB, Redis |
+| **Real-time & Queues** | WebSocket (Socket.IO), BullMQ |
+| **DevOps & Cloud** | Docker, Linux, AWS, GitHub Actions (CI/CD) |
+| **Security** | JWT, OAuth 2.0, RBAC, API Security |
 
 ---
 
 ### 📂 Featured Projects
 
-* [cite_start]**[Guessing Game](https://github.com/canonone/Guessing-game)**: A real-time, multiplayer game built with NestJS and Socket.IO[cite: 41].
-* [cite_start]**[NGINX Access Log Monitor](https://github.com/canonone/NGINX-Access-Log-Monitor)**: Automated monitoring and alerting for traffic patterns[cite: 37].
-* [cite_start]**[Habit Tracker](https://github.com/canonone/Habit-Tracker)**: A productivity tool for progress monitoring built with NestJS[cite: 45].
-* [cite_start]**[Blog API](https://github.com/canonone/Blog-API)**: A RESTful API featuring secure user authentication and RBAC[cite: 34].
+* **[Guessing Game](https://github.com/canonone/Guessing-game)**: A real-time, multiplayer game built with NestJS and Socket.IO.
+* **[NGINX Access Log Monitor](https://github.com/canonone/NGINX-Access-Log-Monitor)**: Automated monitoring and alerting for traffic patterns.
+* **[Habit Tracker](https://github.com/canonone/Habit-Tracker)**: A productivity tool for progress monitoring built with NestJS
+* **[Blog API](https://github.com/canonone/Blog-API)**: A RESTful API featuring secure user authentication and RBAC.
 
 ---
 
