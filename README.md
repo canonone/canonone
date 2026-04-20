@@ -2,11 +2,11 @@
 
 ### 🚀 Backend Engineer | Node.js • NestJS • TypeScript
 
-[cite_start]I am a highly proficient Backend Developer specializing in architecting scalable, high-performance RESTful APIs[cite: 5]. [cite_start]I focus on building secure, reliable systems and optimizing database performance for complex industrial applications[cite: 6].
+I am a highly proficient Backend Developer specializing in architecting scalable, high-performance RESTful APIs. I focus on building secure, reliable systems and optimizing database performance for complex industrial applications.
 
 - 🔭 **Current Focus**: Architecting a backend system for 3D digital twins and industrial asset inspections.
-- [cite_start]👨‍💻 **Current Role**: Building at **Pedxo**, implementing secure OAuth 2.0 flows and scalable data models[cite: 16, 18, 21].
-- [cite_start]🏫 **Mentorship**: Project Mentor at **AltSchool Africa**, guiding developers through capstone projects and system design[cite: 56].
+- 👨‍💻 **Current Role**: Building at **Pedxo**, implementing secure OAuth 2.0 flows and scalable data models.
+- 🏫 **Mentorship**: Project Mentor at **AltSchool Africa**, guiding developers through capstone projects and system design.
 - ⚡ **Philosophy**: I advocate for NestJS when building for scale due to its structured, opinionated architecture.
 
 ---
