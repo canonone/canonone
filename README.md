@@ -7,7 +7,7 @@ I am a highly proficient Backend Developer specializing in architecting scalable
 - 🔭 **Current Focus**: Architecting a backend system for 3D digital twins and industrial asset inspections.
 - 🛠 **Expertise**: Specializing in secure authorization (JWT), database optimization (PostgreSQL/MongoDB/Redis), and CI/CD
 - 🏫 **Mentorship**: Previously served as a Project Mentor at **AltSchool Africa**, guiding developers through capstone projects and system design.
-- ⚡ **Philosophy**: I advocate for NestJS when building for scale due to its structured, opinionated architecture.
+- ⚡ **Philosophy**: I advocate for building structured, enterprise-grade architectures by leveraging robust system design concepts and scalable patterns.
 
 ---
 
