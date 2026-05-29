@@ -22,15 +22,6 @@ I am a highly proficient Backend Developer specializing in architecting scalable
 
 ---
 
-### 📂 Featured Projects
-
-* **[Guessing Game](https://github.com/canonone/Guessing-game)**: A real-time, multiplayer game built with NestJS and Socket.IO.
-* **[NGINX Access Log Monitor](https://github.com/canonone/NGINX-Access-Log-Monitor)**: Automated monitoring and alerting for traffic patterns.
-* **[Habit Tracker](https://github.com/canonone/Habit-Tracker)**: A productivity tool for progress monitoring built with NestJS
-* **[Blog API](https://github.com/canonone/Blog-API)**: A RESTful API featuring secure user authentication and RBAC.
-
----
-
 ### 📊 GitHub Activity
 ![Christian's Stats](https://github-readme-stats.vercel.app/api?username=canonone&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canonone&layout=compact&theme=radical&hide_border=true)
